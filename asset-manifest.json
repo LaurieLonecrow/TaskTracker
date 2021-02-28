@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/LaurieLonecrow/TaskTracker2.git/static/css/main.feb8415a.chunk.css",
-    "main.js": "/LaurieLonecrow/TaskTracker2.git/static/js/main.058c54ef.chunk.js",
-    "main.js.map": "/LaurieLonecrow/TaskTracker2.git/static/js/main.058c54ef.chunk.js.map",
-    "runtime-main.js": "/LaurieLonecrow/TaskTracker2.git/static/js/runtime-main.b456d1f8.js",
-    "runtime-main.js.map": "/LaurieLonecrow/TaskTracker2.git/static/js/runtime-main.b456d1f8.js.map",
-    "static/js/2.39b00b84.chunk.js": "/LaurieLonecrow/TaskTracker2.git/static/js/2.39b00b84.chunk.js",
-    "static/js/2.39b00b84.chunk.js.map": "/LaurieLonecrow/TaskTracker2.git/static/js/2.39b00b84.chunk.js.map",
-    "static/js/3.cea59aec.chunk.js": "/LaurieLonecrow/TaskTracker2.git/static/js/3.cea59aec.chunk.js",
-    "static/js/3.cea59aec.chunk.js.map": "/LaurieLonecrow/TaskTracker2.git/static/js/3.cea59aec.chunk.js.map",
-    "index.html": "/LaurieLonecrow/TaskTracker2.git/index.html",
-    "static/css/main.feb8415a.chunk.css.map": "/LaurieLonecrow/TaskTracker2.git/static/css/main.feb8415a.chunk.css.map",
-    "static/js/2.39b00b84.chunk.js.LICENSE.txt": "/LaurieLonecrow/TaskTracker2.git/static/js/2.39b00b84.chunk.js.LICENSE.txt"
+    "main.css": "/LaurieLonecrow/TaskTracker/static/css/main.feb8415a.chunk.css",
+    "main.js": "/LaurieLonecrow/TaskTracker/static/js/main.058c54ef.chunk.js",
+    "main.js.map": "/LaurieLonecrow/TaskTracker/static/js/main.058c54ef.chunk.js.map",
+    "runtime-main.js": "/LaurieLonecrow/TaskTracker/static/js/runtime-main.5463049e.js",
+    "runtime-main.js.map": "/LaurieLonecrow/TaskTracker/static/js/runtime-main.5463049e.js.map",
+    "static/js/2.39b00b84.chunk.js": "/LaurieLonecrow/TaskTracker/static/js/2.39b00b84.chunk.js",
+    "static/js/2.39b00b84.chunk.js.map": "/LaurieLonecrow/TaskTracker/static/js/2.39b00b84.chunk.js.map",
+    "static/js/3.cea59aec.chunk.js": "/LaurieLonecrow/TaskTracker/static/js/3.cea59aec.chunk.js",
+    "static/js/3.cea59aec.chunk.js.map": "/LaurieLonecrow/TaskTracker/static/js/3.cea59aec.chunk.js.map",
+    "index.html": "/LaurieLonecrow/TaskTracker/index.html",
+    "static/css/main.feb8415a.chunk.css.map": "/LaurieLonecrow/TaskTracker/static/css/main.feb8415a.chunk.css.map",
+    "static/js/2.39b00b84.chunk.js.LICENSE.txt": "/LaurieLonecrow/TaskTracker/static/js/2.39b00b84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b456d1f8.js",
+    "static/js/runtime-main.5463049e.js",
     "static/js/2.39b00b84.chunk.js",
     "static/css/main.feb8415a.chunk.css",
     "static/js/main.058c54ef.chunk.js"
