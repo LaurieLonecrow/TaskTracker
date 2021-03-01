@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LaurieLonecrow/TaskTracker/static/css/main.feb8415a.chunk.css",
-    "main.js": "/LaurieLonecrow/TaskTracker/static/js/main.058c54ef.chunk.js",
-    "main.js.map": "/LaurieLonecrow/TaskTracker/static/js/main.058c54ef.chunk.js.map",
+    "main.js": "/LaurieLonecrow/TaskTracker/static/js/main.3142d9d4.chunk.js",
+    "main.js.map": "/LaurieLonecrow/TaskTracker/static/js/main.3142d9d4.chunk.js.map",
     "runtime-main.js": "/LaurieLonecrow/TaskTracker/static/js/runtime-main.5463049e.js",
     "runtime-main.js.map": "/LaurieLonecrow/TaskTracker/static/js/runtime-main.5463049e.js.map",
     "static/js/2.39b00b84.chunk.js": "/LaurieLonecrow/TaskTracker/static/js/2.39b00b84.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5463049e.js",
     "static/js/2.39b00b84.chunk.js",
     "static/css/main.feb8415a.chunk.css",
-    "static/js/main.058c54ef.chunk.js"
+    "static/js/main.3142d9d4.chunk.js"
   ]
 }
