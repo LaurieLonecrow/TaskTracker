@@ -34,7 +34,7 @@ useEffect(() => {
 
 
 const getAllTasks = () =>
-axios.get(`${url}past`)
+axios.get(`${url}`)
 .then((response) =>{
   const allTasks = response.data.tasks.allTasks;
   setTasks(allTasks);

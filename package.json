@@ -2,7 +2,7 @@
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://laurielonecrow.github.io/TaskTracker",
+  "homepage": "https://github.com/LaurieLonecrow/TaskTracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
